@@ -1,0 +1,12 @@
+[package]
+name = "shonclash/shonclash"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Faye = "ouw2204/faye@2.5.0"
+Replica = "thehoosky/replica@1.0.2"
+
+[server-dependencies]
+ProfileStore = "ddashdev/profilestore@1.0.4"

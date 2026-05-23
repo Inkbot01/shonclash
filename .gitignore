@@ -1,0 +1,20 @@
+/*.rbxl
+/*.rbxlx
+/*.rbxl.lock
+/*.rbxlx.lock
+
+# Wally packages (if you use Wally)
+/Packages
+/ServerPackages
+/DevPackages
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Sourcemap (for Roblox-LSP / luau-lsp)
+sourcemap.json

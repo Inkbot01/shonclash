@@ -1,0 +1,89 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Rotation": {
+      "NumberRange": [
+        0.0,
+        360.0
+      ]
+    },
+    "Transparency": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.3,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "LightInfluence": 1.0,
+    "Size": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 18.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 18.0,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "Lifetime": {
+      "NumberRange": [
+        0.1,
+        0.2
+      ]
+    },
+    "Enabled": false,
+    "Rate": 10000.0,
+    "LightEmission": 1.0,
+    "SpreadAngle": [
+      90.0,
+      90.0
+    ],
+    "ZOffset": 5.0,
+    "Speed": {
+      "NumberRange": [
+        100.0,
+        100.0
+      ]
+    },
+    "FlipbookBlendFrames": {
+      "Bool": true
+    },
+    "Color": {
+      "ColorSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "color": [
+              0.0,
+              1.0,
+              0.0
+            ]
+          },
+          {
+            "time": 1.0,
+            "color": [
+              0.0,
+              1.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

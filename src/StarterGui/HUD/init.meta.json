@@ -1,0 +1,10 @@
+{
+  "className": "ScreenGui",
+  "ignoreUnknownInstances": true,
+  "properties": {
+    "DisplayOrder": 0,
+    "Enabled": true,
+    "IgnoreGuiInset": false,
+    "ResetOnSpawn": false
+  }
+}

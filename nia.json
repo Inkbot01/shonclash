@@ -1,0 +1,13 @@
+{
+  "$schema": "https://trynia.ai/schema/project.json",
+  "version": 1,
+  "name": "shonclash",
+  "sources": [
+    "ed6f413c-0cbd-4421-bb76-9ab112435eb8"
+  ],
+  "vaults": [],
+  "local": [],
+  "defaults": {
+    "search_mode": "scoped"
+  }
+}

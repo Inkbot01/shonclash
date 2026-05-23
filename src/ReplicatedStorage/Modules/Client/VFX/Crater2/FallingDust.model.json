@@ -1,0 +1,96 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "Rotation": {
+      "NumberRange": [
+        -360.0,
+        360.0
+      ]
+    },
+    "Transparency": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 0.5145228,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "LightInfluence": 1.0,
+    "Size": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 2.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 2.0,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "Lifetime": {
+      "NumberRange": [
+        3.0,
+        5.0
+      ]
+    },
+    "Rate": 0.0,
+    "RotSpeed": {
+      "NumberRange": [
+        -50.0,
+        50.0
+      ]
+    },
+    "SpreadAngle": [
+      -180.0,
+      0.0
+    ],
+    "LockedToPart": true,
+    "FlipbookBlendFrames": {
+      "Bool": true
+    },
+    "Texture": "rbxassetid://431361643",
+    "Color": {
+      "ColorSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "color": [
+              0.6666667,
+              0.6666667,
+              0.6666667
+            ]
+          },
+          {
+            "time": 1.0,
+            "color": [
+              0.6666667,
+              0.6666667,
+              0.6666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "attributes": {
+    "EmitDelay": 0.0
+  }
+}
